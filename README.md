@@ -1,3 +1,5 @@
+[DEMO](https://code-wizards-graphiql.netlify.app)
+
 ## Tech Stack:
 
 - React
